@@ -70,6 +70,3 @@ class Drunks():
     # Set up a function to record the density of agents in the cells
     def steps (self, density):
         self.density [self.x][self.y] +=1 
-
-
-print("hello world")
